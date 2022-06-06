@@ -2,3 +2,5 @@
 *checkpoint*
 clean.csv
 lyrics-data.csv
+wandb/*
+data/renamed_clean.csv
