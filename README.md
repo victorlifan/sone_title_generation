@@ -10,5 +10,5 @@ Versions of complete model training processes with different parameters based on
 ### Logs:
 Training logs based on different versions of training scripts.
 
-### Results
+### Results:
 Title generation results based on different versions of training scripts.
