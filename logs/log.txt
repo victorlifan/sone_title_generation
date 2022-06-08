@@ -1,0 +1,237 @@
+                title                                              ctext
+0    careless whisper  summarize: i feel so unsure as i take your han...
+1  could you be loved  summarize: don't let them fool, ya or even try...
+2            cruisin'  summarize: baby, let's cruise, away from here ...
+3                easy  summarize: know it sounds funny but, i just ca...
+4     for your babies  summarize: you've got that look again the one ...
+FULL Dataset: (191814, 2)
+TRAIN Dataset: (153451, 2)
+TEST Dataset: (38363, 2)
+Initiating Fine-Tuning for the model on our dataset
+Epoch: 0, Loss:  6.086909770965576
+Epoch: 0, Loss:  1.1801789999008179
+Epoch: 0, Loss:  1.5315260887145996
+Epoch: 0, Loss:  1.8020535707473755
+Epoch: 0, Loss:  1.0448182821273804
+Epoch: 0, Loss:  0.4825397729873657
+Epoch: 0, Loss:  1.216357946395874
+Epoch: 0, Loss:  1.794565200805664
+Epoch: 0, Loss:  0.5040560960769653
+Epoch: 0, Loss:  0.7498127818107605
+Epoch: 0, Loss:  0.7989109754562378
+Epoch: 0, Loss:  1.0968327522277832
+Epoch: 0, Loss:  1.1646002531051636
+Epoch: 0, Loss:  1.4088797569274902
+Epoch: 0, Loss:  0.9711593985557556
+Epoch: 0, Loss:  0.970251739025116
+Epoch: 0, Loss:  0.7068728804588318
+Epoch: 0, Loss:  0.40715593099594116
+Epoch: 0, Loss:  0.9958986639976501
+Epoch: 0, Loss:  1.2352056503295898
+Epoch: 1, Loss:  1.086425542831421
+Epoch: 1, Loss:  1.483521819114685
+Epoch: 1, Loss:  0.5430606603622437
+Epoch: 1, Loss:  1.5711133480072021
+Epoch: 1, Loss:  0.8432455062866211
+Epoch: 1, Loss:  0.757221519947052
+Epoch: 1, Loss:  0.4397806227207184
+Epoch: 1, Loss:  0.719737708568573
+Epoch: 1, Loss:  1.2999345064163208
+Epoch: 1, Loss:  0.35450610518455505
+Epoch: 1, Loss:  1.6617103815078735
+Epoch: 1, Loss:  0.957996666431427
+Epoch: 1, Loss:  0.7346381545066833
+Epoch: 1, Loss:  0.6133695244789124
+Epoch: 1, Loss:  1.6119948625564575
+Epoch: 1, Loss:  0.9353582262992859
+Epoch: 1, Loss:  0.8451733589172363
+Epoch: 1, Loss:  0.5667344331741333
+Epoch: 1, Loss:  0.7413328289985657
+Epoch: 1, Loss:  0.846228301525116
+Epoch: 2, Loss:  1.5156497955322266
+Epoch: 2, Loss:  0.7328678965568542
+Epoch: 2, Loss:  1.9581044912338257
+Epoch: 2, Loss:  0.9811410903930664
+Epoch: 2, Loss:  0.9066938757896423
+Epoch: 2, Loss:  1.3297386169433594
+Epoch: 2, Loss:  0.5459396243095398
+Epoch: 2, Loss:  0.4302416145801544
+Epoch: 2, Loss:  0.7727544903755188
+Epoch: 2, Loss:  0.6110353469848633
+Epoch: 2, Loss:  0.5150821805000305
+Epoch: 2, Loss:  1.247866153717041
+Epoch: 2, Loss:  0.914006233215332
+Epoch: 2, Loss:  1.5759673118591309
+Epoch: 2, Loss:  1.3008184432983398
+Epoch: 2, Loss:  1.0385600328445435
+Epoch: 2, Loss:  0.36161839962005615
+Epoch: 2, Loss:  1.0113890171051025
+Epoch: 2, Loss:  0.8747674226760864
+Epoch: 2, Loss:  0.43649500608444214
+Epoch: 3, Loss:  0.350622296333313
+Epoch: 3, Loss:  0.5126872062683105
+Epoch: 3, Loss:  0.6095799803733826
+Epoch: 3, Loss:  0.8595955967903137
+Epoch: 3, Loss:  0.515507698059082
+Epoch: 3, Loss:  0.47698140144348145
+Epoch: 3, Loss:  1.111958384513855
+Epoch: 3, Loss:  0.6984617710113525
+Epoch: 3, Loss:  0.1685529500246048
+Epoch: 3, Loss:  0.7497243881225586
+Epoch: 3, Loss:  1.3296051025390625
+Epoch: 3, Loss:  1.0421736240386963
+Epoch: 3, Loss:  1.4049155712127686
+Epoch: 3, Loss:  1.163582444190979
+Epoch: 3, Loss:  0.5492473244667053
+Epoch: 3, Loss:  1.2883285284042358
+Epoch: 3, Loss:  0.5219095349311829
+Epoch: 3, Loss:  0.9307979345321655
+Epoch: 3, Loss:  0.7513827681541443
+Epoch: 3, Loss:  1.1533266305923462
+Epoch: 4, Loss:  0.37600162625312805
+Epoch: 4, Loss:  0.9027859568595886
+Epoch: 4, Loss:  0.315134197473526
+Epoch: 4, Loss:  0.26395487785339355
+Epoch: 4, Loss:  0.38012781739234924
+Epoch: 4, Loss:  1.006626844406128
+Epoch: 4, Loss:  0.7297335267066956
+Epoch: 4, Loss:  0.8711451292037964
+Epoch: 4, Loss:  1.0500874519348145
+Epoch: 4, Loss:  0.4163018763065338
+Epoch: 4, Loss:  1.10306715965271
+Epoch: 4, Loss:  1.2154020071029663
+Epoch: 4, Loss:  0.18902213871479034
+Epoch: 4, Loss:  0.7042100429534912
+Epoch: 4, Loss:  0.5235576629638672
+Epoch: 4, Loss:  0.6339496970176697
+Epoch: 4, Loss:  0.2529349625110626
+Epoch: 4, Loss:  1.0766032934188843
+Epoch: 4, Loss:  1.1305009126663208
+Epoch: 4, Loss:  1.3607593774795532
+Epoch: 5, Loss:  0.30915194749832153
+Epoch: 5, Loss:  0.4019584655761719
+Epoch: 5, Loss:  0.3330616056919098
+Epoch: 5, Loss:  0.38129279017448425
+Epoch: 5, Loss:  0.5111329555511475
+Epoch: 5, Loss:  0.39685243368148804
+Epoch: 5, Loss:  0.6022630929946899
+Epoch: 5, Loss:  0.3530997633934021
+Epoch: 5, Loss:  0.9290311336517334
+Epoch: 5, Loss:  1.0708811283111572
+Epoch: 5, Loss:  0.7233741879463196
+Epoch: 5, Loss:  0.7437891960144043
+Epoch: 5, Loss:  0.5310091376304626
+Epoch: 5, Loss:  0.18949809670448303
+Epoch: 5, Loss:  0.11433777213096619
+Epoch: 5, Loss:  0.34075793623924255
+Epoch: 5, Loss:  0.705367386341095
+Epoch: 5, Loss:  0.575589120388031
+Epoch: 5, Loss:  0.7272163033485413
+Epoch: 5, Loss:  1.003178596496582
+Epoch: 6, Loss:  0.15594300627708435
+Epoch: 6, Loss:  0.4364834725856781
+Epoch: 6, Loss:  0.5376632213592529
+Epoch: 6, Loss:  0.8345639705657959
+Epoch: 6, Loss:  0.27450400590896606
+Epoch: 6, Loss:  0.18453043699264526
+Epoch: 6, Loss:  0.7846481204032898
+Epoch: 6, Loss:  0.23763436079025269
+Epoch: 6, Loss:  0.944381594657898
+Epoch: 6, Loss:  0.5722066164016724
+Epoch: 6, Loss:  0.9177194833755493
+Epoch: 6, Loss:  0.6096141934394836
+Epoch: 6, Loss:  0.6834113001823425
+Epoch: 6, Loss:  1.058594822883606
+Epoch: 6, Loss:  0.327938973903656
+Epoch: 6, Loss:  0.6753604412078857
+Epoch: 6, Loss:  0.5198373198509216
+Epoch: 6, Loss:  0.3187984526157379
+Epoch: 6, Loss:  0.4948180019855499
+Epoch: 6, Loss:  0.8552833199501038
+Epoch: 7, Loss:  0.32549336552619934
+Epoch: 7, Loss:  0.1900644749403
+Epoch: 7, Loss:  0.3419290781021118
+Epoch: 7, Loss:  0.2816008925437927
+Epoch: 7, Loss:  0.4901108145713806
+Epoch: 7, Loss:  0.4116346836090088
+Epoch: 7, Loss:  0.4250647723674774
+Epoch: 7, Loss:  0.13904885947704315
+Epoch: 7, Loss:  0.15150678157806396
+Epoch: 7, Loss:  0.14422917366027832
+Epoch: 7, Loss:  0.5401743054389954
+Epoch: 7, Loss:  0.847234845161438
+Epoch: 7, Loss:  0.92890465259552
+Epoch: 7, Loss:  0.37976616621017456
+Epoch: 7, Loss:  0.33382317423820496
+Epoch: 7, Loss:  0.5398597121238708
+Epoch: 7, Loss:  1.1243630647659302
+Epoch: 7, Loss:  0.7239319086074829
+Epoch: 7, Loss:  0.5244697332382202
+Epoch: 7, Loss:  0.6365066766738892
+Epoch: 8, Loss:  0.6371020674705505
+Epoch: 8, Loss:  0.154488205909729
+Epoch: 8, Loss:  0.4123993515968323
+Epoch: 8, Loss:  0.24473164975643158
+Epoch: 8, Loss:  0.39615529775619507
+Epoch: 8, Loss:  0.42767858505249023
+Epoch: 8, Loss:  0.3404024541378021
+Epoch: 8, Loss:  0.4831167459487915
+Epoch: 8, Loss:  0.31069517135620117
+Epoch: 8, Loss:  0.6057950854301453
+Epoch: 8, Loss:  0.25664350390434265
+Epoch: 8, Loss:  0.4066172242164612
+Epoch: 8, Loss:  0.1319260150194168
+Epoch: 8, Loss:  0.505475640296936
+Epoch: 8, Loss:  0.45863980054855347
+Epoch: 8, Loss:  0.7902576327323914
+Epoch: 8, Loss:  0.9502739310264587
+Epoch: 8, Loss:  0.45972639322280884
+Epoch: 8, Loss:  0.5062251091003418
+Epoch: 8, Loss:  0.43671730160713196
+Epoch: 9, Loss:  0.30263835191726685
+Epoch: 9, Loss:  0.12467427551746368
+Epoch: 9, Loss:  0.27635547518730164
+Epoch: 9, Loss:  0.3199283182621002
+Epoch: 9, Loss:  0.17562483251094818
+Epoch: 9, Loss:  0.2779864966869354
+Epoch: 9, Loss:  0.602620005607605
+Epoch: 9, Loss:  0.168841153383255
+Epoch: 9, Loss:  0.22228936851024628
+Epoch: 9, Loss:  0.16018390655517578
+Epoch: 9, Loss:  0.4395717680454254
+Epoch: 9, Loss:  0.18243131041526794
+Epoch: 9, Loss:  0.5174539685249329
+Epoch: 9, Loss:  0.4611184597015381
+Epoch: 9, Loss:  0.2626901865005493
+Epoch: 9, Loss:  0.3255423605442047
+Epoch: 9, Loss:  0.33807748556137085
+Epoch: 9, Loss:  0.5191523432731628
+Epoch: 9, Loss:  0.16641493141651154
+Epoch: 9, Loss:  0.3387051522731781
+Now generating titles on our fine tuned model for the validation dataset and saving it in a dataframe
+Completed 0
+Completed 100
+Completed 200
+Completed 300
+Completed 400
+Completed 500
+Completed 600
+Completed 700
+Completed 800
+Completed 900
+Completed 1000
+Completed 1100
+Completed 1200
+Completed 1300
+Completed 1400
+Completed 1500
+Completed 1600
+Completed 1700
+Completed 1800
+Completed 1900
+Completed 2000
+Completed 2100
+Completed 2200
+Completed 2300
+Output Files generated for review
+--- 20.0 hours ---
