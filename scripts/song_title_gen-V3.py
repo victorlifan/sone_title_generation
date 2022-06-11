@@ -8,7 +8,7 @@
 #                 num_beams=5,
 #                 early_stopping=True
 #                 )
-# lr = 1e-4
+# lr = 1e-5
 
 
 # Importing stock libraries
@@ -135,7 +135,7 @@ def main():
     config.VALID_BATCH_SIZE = 16    # input batch size for testing (default: 1000)
     config.TRAIN_EPOCHS = 10        # number of epochs to train (default: 10)
     config.VAL_EPOCHS = 1 
-    config.LEARNING_RATE = 1e-4    # learning rate (default: 0.01)
+    config.LEARNING_RATE = 1e-5    # learning rate (default: 0.01)
     config.SEED = 42               # random seed (default: 42)
     config.MAX_LEN = 512
     config.SUMMARY_LEN = 24 
