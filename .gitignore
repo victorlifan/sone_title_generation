@@ -4,3 +4,8 @@ clean.csv
 lyrics-data.csv
 wandb*
 data/renamed_clean.csv
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/song_title_generation.iml
