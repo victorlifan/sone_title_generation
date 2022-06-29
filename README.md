@@ -11,18 +11,18 @@ In this tutorial we will be generating this ***Abstractive Summary***.
 
 The notebook will be divided into separate sections to provide a organized walk through for the process used. This process can be modified for individual use cases. The sections are:
 
-1. [Preparing Environment and Importing Libraries](#section01)
-2. [Preparing the Dataset for data processing: Class](#section02)
-3. [Fine Tuning the Model: Function](#section03)
-4. [Validating the Model Performance: Function](#section04)
-5. [Main Function](#section05)
-    * [Initializing WandB](#section501)
-    * [Importing and Pre-Processing the domain data](#section502)
-    * [Creation of Dataset and Dataloader](#section503)
-    * [Neural Network and Optimizer](#section504)
-    * [Training Model and Logging to WandB](#section505)
-    * [Validation and generation of Summary](#section506)
-6. [Examples of the Summary Generated from the model](#section06)
+1. Preparing Environment and Importing Libraries
+2. Preparing the Dataset for data processing: Class
+3. Fine Tuning the Model: Function
+4. Validating the Model Performance: Function
+5. Main Function
+    * Initializing WandB
+    * Importing and Pre-Processing the domain data
+    * Creation of Dataset and Dataloader
+    * Neural Network and Optimizer
+    * Training Model and Logging to WandB
+    * Validation and generation of Summary
+6. Examples of the Summary Generated from the model
 
 
 ### Technical Details
