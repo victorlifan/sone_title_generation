@@ -60,7 +60,7 @@ This script leverages on multiple tools designed by other teams. Details of the 
 
 - **Script Objective**:
     - The objective of this script is to fine tune ***T5 *** to be able to generate title (summary task), that a close to or better than the actual title while ensuring the important information from the lyrics is not lost.
-    - Version 3 model training loss example:
+    - Model Version 3 training loss example:
 
 
 ![alt test](https://raw.githubusercontent.com/victorlifan/song_title_generation_-NLP-Summarization-Task-/main/img/V3_trainloss.png)
